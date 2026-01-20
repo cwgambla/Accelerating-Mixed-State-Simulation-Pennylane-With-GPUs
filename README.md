@@ -121,3 +121,12 @@ This GPU speed is now possible because default.mixed is now has a compatible bac
 https://pennylane.ai/devices/default-mixed
 
 Thank you to the teams at Pennylane/Xanadu for making this possible, and for all you help in making this tutorial happen. Hopefully this tutorial helps you in your journey with QIS. 
+
+### Version Notes
+Below are system details for what the notebook was run on
+Python version: 3.10.17
+JAX version: 0.6.0
+PennyLane version: 0.42.3
+Qiskit version: 1.2.4
+Qiskit-aer version: 0.15.1
+GPU used: NVIDIA GeForce RTX 4070
