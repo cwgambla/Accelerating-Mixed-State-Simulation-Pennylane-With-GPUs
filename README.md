@@ -123,7 +123,7 @@ https://pennylane.ai/devices/default-mixed
 Thank you to the teams at Pennylane/Xanadu for making this possible, and for all you help in making this tutorial happen. Hopefully this tutorial helps you in your journey with QIS. 
 
 ### Version Notes
-Below are system details for what the notebook was run on
+Below are system details for what the notebook was run on:
 
 Python version: 3.10.17
 
